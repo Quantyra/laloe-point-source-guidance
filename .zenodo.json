@@ -1,0 +1,32 @@
+{
+  "title": "A local flux obstruction to guidance in Laloë’s point-source collapse model",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "A mathematical-physics note on Bohmian guidance in the point-density reading of Laloë’s gravitational collapse model. A moving-neighborhood estimate identifies an incompatibility between the required flux and regular on-source phase guidance. Includes the moving-source proof, its regularity assumptions, a frozen-source check and a finite-width comparison.",
+  "creators": [
+    {
+      "name": "Fredriksen, Daniel",
+      "affiliation": "Quantyra Inc.",
+      "orcid": "0009-0002-9123-7435"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Bohmian mechanics",
+    "gravitational collapse models",
+    "probability current",
+    "point sources"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1140/epjd/e2019-100434-1",
+      "scheme": "doi",
+      "relation": "references"
+    },
+    {
+      "identifier": "10.5802/crphys.104",
+      "scheme": "doi",
+      "relation": "references"
+    }
+  ]
+}
